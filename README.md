@@ -1,4 +1,6 @@
-# Python for Biologists
+
+
+**##Course: Python for Computational Biology**
 
 Welcome to my Python learning repository.
 
