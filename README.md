@@ -48,7 +48,7 @@ To build strong computational skills for biological data analysis and research t
 
 MSc Biotechnology
 
-Shoolini University,Solan , Himachal Pradesh 
+Shoolini University, Solan , Himachal Pradesh 
 
 Interested in:
 - Computational Biology
