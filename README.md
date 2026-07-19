@@ -24,21 +24,21 @@ Throughout this repository I aim to:
 
 **Repository Structure**
 Computational Biology with Python
-├── 01_Python_Basics.ipynb
-├── 02_Operators_and_User_Input.ipynb
-├── 03_Conditional_Statements.ipynb
-├── 04_Loops.ipynb
-├── 05_Functions.ipynb
-├── 06_Lists_Tuples.ipynb
-├── 07_Dictionaries_and_Sets.ipynb
-├── 08_File_Handling_Biological_Data.ipynb
-├── 09_NumPy_Gene_Expression.ipynb
-├── 10_Pandas_Biological_Data.ipynb
-├── 11_Data_Visualization.ipynb
-├── 12_Biostatistics.ipynb
-├── 13_DNA_Sequence_Analysis.ipynb
-├── 14_RNAseq_Differential_Expression.ipynb
-└── 15_LUAD_Transcriptomics_Capstone.ipynb
+  01_Python_Basics.ipynb
+  02_Operators_and_User_Input.ipynb
+  03_Conditional_Statements.ipynb
+ 04_Loops.ipynb
+ 05_Functions.ipynb
+ 06_Lists_Tuples.ipynb
+ 07_Dictionaries_and_Sets.ipynb
+ 08_File_Handling_Biological_Data.ipynb
+ 09_NumPy_Gene_Expression.ipynb
+ 10_Pandas_Biological_Data.ipynb
+ 11_Data_Visualization.ipynb
+ 12_Biostatistics.ipynb
+ 13_DNA_Sequence_Analysis.ipynb
+ 14_RNAseq_Differential_Expression.ipynb
+ 15_LUAD_Transcriptomics_Capstone.ipynb
 
 **Skills Demonstrated**
 * Python Programming
