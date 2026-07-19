@@ -1,15 +1,14 @@
 
-
-**##Course: Python for Computational Biology**
-
-Welcome to my Python learning repository.
-
+#  Computational Biology with Python
+### A Research-Oriented Learning Portfolio
 This repository documents my journey of learning Python for computational biology, bioinformatics, biostatistics, and biomedical data science.
+<img src="Repository_banner.png" width="100%">
 
----
+
+
 
 ## Learning Progress
----
+
 | Day   |        Topic     | Status     |
 | Day 1 | Python Basics    |  Completed |
 | Day 2 | Operators & Input|Coming Soon |
@@ -18,7 +17,7 @@ This repository documents my journey of learning Python for computational biolog
 | Day 5 |    Functions      |  Coming Soon   |
 
 
----
+
 
 ##  Skills Covered
 
