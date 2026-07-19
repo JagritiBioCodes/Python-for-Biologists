@@ -23,6 +23,7 @@ Throughout this repository I aim to:
 * Strengthen skills for translational biomedical research
 
 **Repository Structure**
+
 Computational Biology with Python
 
   01_Python_Basics.ipynb
@@ -31,9 +32,9 @@ Computational Biology with Python
   
   03_Conditional_Statements.ipynb
   
- 04_Loops.ipynb
+  04_Loops.ipynb
  
- 05_Functions.ipynb
+  05_Functions.ipynb
  
  06_Lists_Tuples.ipynb
  
